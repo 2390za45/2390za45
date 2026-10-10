@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  <img src="assets/banner.png" alt="Esha Munir - Data Analytics Portfolio" width="100%"/>
+ <img src="banner.png" alt="Esha Munir - Data Analytics Portfolio" width="100%"/>
 
   # Esha Munir
 

@@ -1,7 +1,8 @@
 
-<div align="center">
 
- <img src="banner.png" alt="Esha Munir - Data Analytics Portfolio" width="100%"/>
+ <div align="center">
+
+  <img src="./Neon%20Data%20Analytics%20Portfolio%20Banner%20(1).png" alt="Esha Munir - Data Analytics Portfolio" width="100%"/>
 
   # Esha Munir
 
